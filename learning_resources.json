@@ -1,0 +1,326 @@
+{
+  "learning_resources": [
+    {
+      "skill": "Python",
+      "topics": [
+        "Python fundamentals",
+        "Functions",
+        "Lists and dictionaries",
+        "Object-oriented programming",
+        "File handling",
+        "Data analysis with Python"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "Python Tutorial",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=python+full+course+beginner"
+        },
+        {
+          "type": "Course",
+          "title": "Python for Beginners",
+          "provider": "freeCodeCamp",
+          "url": "https://www.freecodecamp.org/learn/"
+        },
+        {
+          "type": "Documentation",
+          "title": "Python Documentation",
+          "provider": "Python",
+          "url": "https://docs.python.org/3/tutorial/"
+        }
+      ]
+    },
+    {
+      "skill": "SQL",
+      "topics": [
+        "SELECT queries",
+        "Filtering",
+        "JOINs",
+        "GROUP BY",
+        "Subqueries",
+        "Window functions"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "SQL Full Course",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=SQL+full+course+beginner"
+        },
+        {
+          "type": "Practice",
+          "title": "SQL Practice",
+          "provider": "SQLBolt",
+          "url": "https://sqlbolt.com/"
+        },
+        {
+          "type": "Practice",
+          "title": "SQL Learning",
+          "provider": "Kaggle",
+          "url": "https://www.kaggle.com/learn"
+        }
+      ]
+    },
+    {
+      "skill": "Excel",
+      "topics": [
+        "Formulas",
+        "Functions",
+        "Pivot tables",
+        "Data cleaning",
+        "Charts",
+        "Dashboards"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "Excel Data Analysis Tutorials",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=Excel+data+analysis+tutorial"
+        },
+        {
+          "type": "Learning",
+          "title": "Excel Training",
+          "provider": "Microsoft",
+          "url": "https://support.microsoft.com/en-us/excel"
+        }
+      ]
+    },
+    {
+      "skill": "Power BI",
+      "topics": [
+        "Power BI interface",
+        "Data import",
+        "Power Query",
+        "Data modeling",
+        "DAX basics",
+        "Dashboard design"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "Power BI Full Course",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=Power+BI+full+course+beginner"
+        },
+        {
+          "type": "Learning",
+          "title": "Power BI Learning",
+          "provider": "Microsoft Learn",
+          "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi/"
+        }
+      ]
+    },
+    {
+      "skill": "Tableau",
+      "topics": [
+        "Connecting data",
+        "Charts",
+        "Calculated fields",
+        "Filters",
+        "Dashboards",
+        "Storytelling"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "Tableau Beginner Tutorial",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=Tableau+beginner+full+course"
+        },
+        {
+          "type": "Learning",
+          "title": "Tableau Learning",
+          "provider": "Tableau",
+          "url": "https://www.tableau.com/learn"
+        }
+      ]
+    },
+    {
+      "skill": "Statistics",
+      "topics": [
+        "Mean and median",
+        "Variance and standard deviation",
+        "Probability",
+        "Correlation",
+        "Regression",
+        "Hypothesis testing"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "Statistics for Data Science",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=statistics+for+data+science+full+course"
+        },
+        {
+          "type": "Learning",
+          "title": "Statistics Learning",
+          "provider": "Khan Academy",
+          "url": "https://www.khanacademy.org/math/statistics-probability"
+        }
+      ]
+    },
+    {
+      "skill": "Machine Learning",
+      "topics": [
+        "Supervised learning",
+        "Unsupervised learning",
+        "Regression",
+        "Classification",
+        "Clustering",
+        "Model evaluation"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "Machine Learning Course",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=machine+learning+full+course+beginner"
+        },
+        {
+          "type": "Practice",
+          "title": "Intro to Machine Learning",
+          "provider": "Kaggle",
+          "url": "https://www.kaggle.com/learn/intro-to-machine-learning"
+        }
+      ]
+    },
+    {
+      "skill": "Pandas",
+      "topics": [
+        "Series",
+        "DataFrames",
+        "Reading datasets",
+        "Filtering",
+        "Grouping",
+        "Data cleaning"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "Pandas Tutorial",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=pandas+python+tutorial+data+analysis"
+        },
+        {
+          "type": "Documentation",
+          "title": "Pandas Documentation",
+          "provider": "Pandas",
+          "url": "https://pandas.pydata.org/docs/"
+        }
+      ]
+    },
+    {
+      "skill": "NumPy",
+      "topics": [
+        "Arrays",
+        "Indexing",
+        "Vectorization",
+        "Mathematical operations",
+        "Statistics with NumPy"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "NumPy Tutorial",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=numpy+python+tutorial"
+        },
+        {
+          "type": "Documentation",
+          "title": "NumPy Documentation",
+          "provider": "NumPy",
+          "url": "https://numpy.org/doc/"
+        }
+      ]
+    },
+    {
+      "skill": "Data Visualization",
+      "topics": [
+        "Choosing charts",
+        "Bar charts",
+        "Line charts",
+        "Scatter plots",
+        "Dashboard design",
+        "Data storytelling"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "Data Visualization Tutorial",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=data+visualization+full+course"
+        },
+        {
+          "type": "Learning",
+          "title": "Data Visualization",
+          "provider": "Kaggle",
+          "url": "https://www.kaggle.com/learn/data-visualization"
+        }
+      ]
+    },
+    {
+      "skill": "Git/GitHub",
+      "topics": [
+        "Repositories",
+        "Commits",
+        "Branches",
+        "Pull requests",
+        "Version control",
+        "Project collaboration"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "Git and GitHub Tutorial",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=git+github+full+course+beginner"
+        },
+        {
+          "type": "Learning",
+          "title": "GitHub Skills",
+          "provider": "GitHub",
+          "url": "https://skills.github.com/"
+        }
+      ]
+    },
+    {
+      "skill": "Communication",
+      "topics": [
+        "Professional communication",
+        "Active listening",
+        "Explaining technical ideas",
+        "Interview communication",
+        "Presentation skills"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "Communication Skills for Students",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=communication+skills+for+students"
+        }
+      ]
+    },
+    {
+      "skill": "Problem Solving",
+      "topics": [
+        "Problem decomposition",
+        "Logical thinking",
+        "Root cause analysis",
+        "Decision making",
+        "Analytical thinking"
+      ],
+      "resources": [
+        {
+          "type": "Video",
+          "title": "Problem Solving Skills",
+          "provider": "YouTube",
+          "url": "https://www.youtube.com/results?search_query=problem+solving+skills+students"
+        }
+      ]
+    }
+  ]
+}
