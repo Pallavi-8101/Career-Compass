@@ -1,4 +1,4 @@
-# 🎯 Career Compass
+# 🎯 Career Compass 
 
 ## Agentic Career Counseling Companion
 
